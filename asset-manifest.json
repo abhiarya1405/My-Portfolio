@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.483d2143.css",
-    "main.js": "/static/js/main.00c68c65.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/Home-Page-Image.gif": "/static/media/Home-Page-Image.1c9e835756566ce50d6f.gif",
-    "static/media/BG-image.jpg": "/static/media/BG-image.cd853fdadc089249ce93.jpg",
-    "static/media/My-pic.jpg": "/static/media/My-pic.fc8a57ac43245ef6fcb4.jpg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/copy.svg": "/static/media/copy.2145db70bcdee64f9af2f449c0d3d231.svg",
-    "index.html": "/index.html",
-    "main.483d2143.css.map": "/static/css/main.483d2143.css.map",
-    "main.00c68c65.js.map": "/static/js/main.00c68c65.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/my-protfolio/static/css/main.18485e6a.css",
+    "main.js": "/my-protfolio/static/js/main.c818e719.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-protfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/Home-Page-Image.gif": "/my-protfolio/static/media/Home-Page-Image.1c9e835756566ce50d6f.gif",
+    "static/media/BG-image.jpg": "/my-protfolio/static/media/BG-image.cd853fdadc089249ce93.jpg",
+    "static/media/My-pic.jpg": "/my-protfolio/static/media/My-pic.fc8a57ac43245ef6fcb4.jpg",
+    "static/media/logo.svg": "/my-protfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/copy.svg": "/my-protfolio/static/media/copy.2145db70bcdee64f9af2f449c0d3d231.svg",
+    "index.html": "/my-protfolio/index.html",
+    "main.18485e6a.css.map": "/my-protfolio/static/css/main.18485e6a.css.map",
+    "main.c818e719.js.map": "/my-protfolio/static/js/main.c818e719.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-protfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.483d2143.css",
-    "static/js/main.00c68c65.js"
+    "static/css/main.18485e6a.css",
+    "static/js/main.c818e719.js"
   ]
 }
